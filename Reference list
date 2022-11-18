@@ -1,37 +1,29 @@
-Reference List
+References
 
-Anderson, R., Addie, S., Schonning, N., Pasic, A. & Dykstra, T.  2020.  ASP.NET MVC Overview.  https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview  Date of access: 27 Sept. 2022.
+Ahmed, F.  2020.  How To Retrieve Data From Database In ASP.NET Web API Using jQuery.  https://www.c-sharpcorner.com/article/how-to-retrieve-data-from-database-in-asp-net-web-api-using-jquery/  Date of access: 03 Sep. 2022.
 
-Coetzee, M. & Muller, J.  2022. Patterns and Standards [PowerPoint].  Distance Learning: North West University.  (CMPG 323 - IT Developments).  Date of access: 27 Sept. 2022.
+Callan, D.  2020.  Run Scaffold DBContext without overwriting custom code in Entity Framework core.  https://davecallan.com/run-scaffold-dbcontext-without-overwriting-custom-code-in-entity-framework-core/  Date of access: 07 Sep. 2022.
 
-Coetzee, M. & Muller, J.  2022.  Implementing Design Patterns [PowerPoint].  Distance Learning: North West University.  (CMPG 323 - IT Developments).  Date of access: 27 Sept. 2022.
+JWT.  s.a.  Introduction to JSON Web Tokens.  https://jwt.io/introduction/  Date of access: 07 Sep. 2022.
 
-Coetzee, M. & Muller, J.  2022. 13 September 2022: P2 feedback + P3 concepts [PowerPoint].  Distance Learning: North West University.  (CMPG 323 - IT Developments).  Date of access: 27 Sept. 2022.
+Lambson, B., Martynov, V., Patel, S., Svyryd, A., Ahamed, F., Rojanksky, S., Cook, J., Anderson, R., & Vikers, A.  2022.  Entity Framework Core tools reference - .NET Core CLI.  https://docs.microsoft.com/en-us/ef/core/cli/dotnet  Date of access: 02 Sep. 2022.
 
-Coetzee, M. & Muller, J.  2022. 20 September 2022: P3 assignment + concepts[PowerPoint].  Distance Learning: North West University.  (CMPG 323 - IT Developments).  Date of access: 27 Sept. 2022.
+Microsoft.  2022.  dotnet build.  https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-build  Date of access: 04 Sep. 2022. 
 
-Dykstra, T. & Anderson, R.  2022.  Tutorial: Get started with EF Core in an ASP.NET MVC web app.  https://learn.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-3.1  Date of access: 24 Sept. 2022.
+Microsoft.  2022.  Tutorial: Create a web API with ASP.NET Core.  https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio  Date of access: 05 Sep. 2022.
 
-Microsoft.  Create a web API with ASP.NET Core controllers.  https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/  Date of access: 26 Sept. 2022.
+Microsoft.  2022.  Get started with Swashbuckle and ASP.NET Core.  https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio  Date of access: 05 Sep. 2022.
 
-Microsoft.  2022.  Exercise - Publish an ASP.NET app from Visual Studio.  https://learn.microsoft.com/en-us/training/modules/publish-azure-web-app-with-visual-studio/5-exercise-publish-an-asp.net-app-from-visual-studio   Date of access: 28 Sept. 2022.
+Microsoft.  2022.  How Visual Studio makes version control easy with Git.  https://docs.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio?view=vs-2022  Date of access: 07 Sep. 2022.
 
-Muller, J.  2022.  Design patterns class 15 Sept [Video].  Distance Learning: North West University.  (CMPG 323)  https://www.dropbox.com/sh/p8fiokfpiqv4gud/AAC5X8SdanTnduTWYzVq4kQ7a?dl=0&preview=08+CMPG+323+-+Design+patternc+class+15+Sept.m4v  Date of access: 27 Sept. 2022.
+Microsoft.  2022.  Microsoft Azure Fundamentals: Describe cloud concepts  https://docs.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/  Date of access: 08 Sep. 2022.
 
+Microsoft.  2022.  Visual Studio version control docs.  https://docs.microsoft.com/en-us/visualstudio/version-control/?wt.mc_id=learnredirect_githubvscode_content_cnl_csaapp&view=vs-2022  Date of access: 07 Sep. 2022.
 
-Muller, J.  2022. Implementing Repository Pattern Guidance Document. Distance Learning: North West University (CMPG 323).  Date of access: 27 Sept. 2022.
- 
-Muller, J. & Motsamai, M.  2022.  CMPG-323-IOT-Device-Management.  Distance Learning: North West University (Repository, CMPG 323).  https://github.com/JacquiM/CMPG-323-IOT-Device-Management  Date of access: 23 Sept. 2022.
+Pankhaniya, J.  2022.  Implement Swagger In ASP.net Core 3.1 Web API.  https://www.c-sharpcorner.com/blogs/implement-swagger-in-asp-net-core-31-web-api  Date of access: 05 Sep. 2022.
 
+Rathore, M.  2021.  Retrieve Data From Database in ASP.Net Web API.  https://www.c-sharpcorner.com/UploadFile/2b481f/retrieve-data-from-database-in-Asp-Net-web-api/  Date of access: 03 Sep. 2022.
 
-Murugan, M.  2021.  Repository Pattern in ASP.NET Core – Ultimate Guide.  https://codewithmukesh.com/blog/repository-pattern-in-aspnet-core/  Date of access: 27 Sept. 2022.
+TutorialsTeacher.  s.a.  Create Web API for CRUD operation - Part 2: Implement Get Method.  https://www.tutorialsteacher.com/webapi/implement-get-method-in-web-api  Date of access: 04 Sep. 2022. 
 
-Naik, K.  2021.  Design Patterns In C# .NET.  https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/  Date of access: 27 Sept. 2022.
-
-Sanjay.  2022.  Solid Principles with C# .NET Core with Practical Examples & Interview Questions.  https://procodeguide.com/design/solid-principles-with-csharp-net-core/  Date of access: 27 Sept. 2022.
-
-Velautham, M.  2012.  Architectural Patterns in .NET.  https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/  Date of access: 27 Sept. 2022.
-
-Vivas, T.  2021.  SOLID With .Net Core.  https://www.c-sharpcorner.com/article/solid-with-net-core/.  Date of access: 28 Sept. 2022.
-
-
+TutorialsTeacher.  2019.  Install SQL Server & SSMS.  https://www.tutorialsteacher.com/sqlserver/install-sql-server  Date of access: 03 Sep. 2022. 
